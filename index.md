@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/media/image2.png" alt="U.PORTO · Faculdade de Engenharia da Universidade do Porto" width="320" />
+  <img src="image2.png" alt="U.PORTO · Faculdade de Engenharia da Universidade do Porto" width="320" />
 </p>
 
 # Proposta de Manual de Boas Práticas do Docente da FEUP
