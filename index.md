@@ -118,7 +118,7 @@ Foco em ciclos [PDCA](https://en.wikipedia.org/wiki/PDCA) (PLAN-DO-CHECK-ACT/ADJ
 
 A figura seguinte ilustra a aplicação do ciclo PDCA de melhora contínua ao nível das ocorrências de UCs, realçando a importância das fichas e relatórios das UCs, que nesta proposta merecem especial atenção.
 
-![Ciclo PDCA de melhoria contínua ao nível das ocorrências de UCs](assets/media/image1.png)
+![Ciclo PDCA de melhoria contínua ao nível das ocorrências de UCs](image1.png)
 
 **Investimento no planeamento**
 
