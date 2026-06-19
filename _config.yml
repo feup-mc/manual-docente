@@ -1,0 +1,19 @@
+title: Manual de Boas Práticas do Docente da FEUP
+description: >-
+  Proposta de Manual de Boas Práticas do Docente da FEUP — listas de verificação
+  para a gestão e lecionação de unidades curriculares.
+lang: pt-PT
+
+# Tema oficial suportado pelo GitHub Pages (não requer plugins adicionais).
+theme: jekyll-theme-cayman
+
+# Conversor de Markdown (predefinição do GitHub Pages).
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Ignorar ficheiros auxiliares na publicação.
+exclude:
+  - README.md
