@@ -17,4 +17,3 @@ kramdown:
 # Ficheiros que não devem ser publicados como páginas do site.
 exclude:
   - README.md
-

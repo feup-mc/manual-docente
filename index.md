@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image2.png" alt="U.PORTO · Faculdade de Engenharia da Universidade do Porto" width="320" />
+  <img src="assets/media/image2.png" alt="U.PORTO · Faculdade de Engenharia da Universidade do Porto" width="320" />
 </p>
 
 # Proposta de Manual de Boas Práticas do Docente da FEUP
@@ -44,8 +44,10 @@ Este documento, dirigido ao corpo docente da FEUP, pretende servir de apoio à g
 
 ---
 
-# 1 Introdução {#1-introducao}
-## 1.1 Enquadramento e objetivos {#11-enquadramento-e-objetivos}
+<h1 id="1-introducao">1 Introdução</h1>
+
+<h2 id="11-enquadramento-e-objetivos">1.1 Enquadramento e objetivos</h2>
+
 Para cumprir a sua missão de educação em consonância com a sua reputação a nível nacional e internacional, a FEUP enfrenta presentemente diversos desafios:
 
 - desafios de escala - acolhe dos maiores cursos de engenharia do país, colocando elevada pressão a nível de recursos físicos e humanos e metodologias de ensino-aprendizagem, avaliação e gestão para atingir qualidade em escala;
@@ -60,7 +62,8 @@ Para cumprir a sua missão de educação em consonância com a sua reputação a
 
 O objetivo deste documento é precisamente o de compilar, na forma de listas de verificação (*checklists*), um conjunto de informação relevante e recomendações, para apoiar os regentes e docentes nas suas atividades de gestão e lecionação de unidades curriculares e ajudar a enfrentar com sucesso os desafios mencionados, seguindo princípios de melhoria contínua, investimento no planeamento, colaboração entre pares e orientação a resultados.
 
-## 1.2 Acrónimos {#12-acronimos}
+<h2 id="12-acronimos">1.2 Acrónimos</h2>
+
 Ao longo do documento são utilizados os acrónimos indicados na tabela seguinte.
 
 | CA   | Comissão de Acompanhamento (do CE)                |
@@ -80,7 +83,8 @@ Ao longo do documento são utilizados os acrónimos indicados na tabela seguinte
 | UO   | Unidade Orgânica (por exemplo, FEUP)              |
 | UP   | Universidade do Porto                             |
 
-## 1.3 Referências {#13-referencias}
+<h2 id="13-referencias">1.3 Referências</h2>
+
 Este documento procura compilar e basear-se em elementos dispersos pelas referências a seguir listadas.
 
 1.  [Regulamento específico de avaliação de discentes da FEUP](https://sigarra.up.pt/feup/pt/web_gessi_docs.download_file?p_name=F2118070764/Reg_Espec_Aval_Disc_FEUP.pdf), 18/7/2018
@@ -101,7 +105,8 @@ Este documento procura compilar e basear-se em elementos dispersos pelas referê
 
 9.  [Glossário Académico da Universidade do Porto](https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=gloss%c3%a1rio%20acad%c3%a9mico%20da%20universidade%20do%20porto)
 
-## 1.4 Princípios orientadores {#14-principios-orientadores}
+<h2 id="14-principios-orientadores">1.4 Princípios orientadores</h2>
+
 A seleção de boas práticas neste documento é guiada por quatro princípios orientadores.
 
 **Melhoria contínua**
@@ -118,7 +123,7 @@ Foco em ciclos [PDCA](https://en.wikipedia.org/wiki/PDCA) (PLAN-DO-CHECK-ACT/ADJ
 
 A figura seguinte ilustra a aplicação do ciclo PDCA de melhora contínua ao nível das ocorrências de UCs, realçando a importância das fichas e relatórios das UCs, que nesta proposta merecem especial atenção.
 
-![Ciclo PDCA de melhoria contínua ao nível das ocorrências de UCs](image1.png)
+![Ciclo PDCA de melhoria contínua ao nível das ocorrências de UCs](assets/media/image1.png)
 
 **Investimento no planeamento**
 
@@ -176,11 +181,14 @@ A orientação a resultados pode ser descrita segundo quatro dimensões compleme
 
   - utilização responsável e pedagogicamente eficaz de ferramentas e plataformas digitais para apoiar o ensino, aprendizagem e avaliação.
 
-## 1.5 Organização {#15-organizacao}
+<h2 id="15-organizacao">1.5 Organização</h2>
+
 O documento está organizado por subprocessos, com listas de verificação (*checklists*) dentro de cada subprocesso e apontadores para informação adicional, tendo em conta as boas práticas pedagógicas e os regulamentos e normas em vigor. Pode ser adaptado às necessidades de cada ciclo de estudos (CE) e UC, ou usado para efeitos de auditoria. Cada item pode ser tratado de forma binária ou de acordo com uma escala indicativa do nível de implementação[^1]. Uma vez que o objetivo é funcionar como lista de verificação, foca-se principalmente no que deve ser feito e não tanto em como deve ser feito, sendo fornecidos alguns apontadores e notas com informação adicional a esse respeito, bem como algumas sugestões e notas de implementação.
 
-# 2 Arranque de Unidade Curricular {#2-arranque-de-unidade-curricular}
-## 2.1 Ficha da unidade curricular {#21-ficha-da-unidade-curricular}
+<h1 id="2-arranque-de-unidade-curricular">2 Arranque de Unidade Curricular</h1>
+
+<h2 id="21-ficha-da-unidade-curricular">2.1 Ficha da unidade curricular</h2>
+
 - [ ] Os objetivos/resultados de aprendizagem (*learning outcomes*)[^2] são claros, detalhados, alcançáveis, relevantes e verificáveis, de preferência redigidos com verbos de ação alinhados com os níveis cognitivos da taxonomia de Bloom[^3], contribuindo para os objetivos do CE e para a obtenção de ganhos de aprendizagem efetivos (3.1 \[3\]).
 
 - [ ] Os tópicos programáticos e os métodos de ensino e atividades de aprendizagem são devidamente detalhados e contribuem para os objetivos de aprendizagem definidos, sendo o mapeamento explícito sempre que possível.[^4]
@@ -209,7 +217,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] A ficha da UC é atualizada atempadamente no SIGARRA (2.1, 2.2 \[1\]) e validada pelo DCE (2.4 \[1\]).
 
-## 2.2 Recursos pedagógicos {#22-recursos-pedagogicos}
+<h2 id="22-recursos-pedagogicos">2.2 Recursos pedagógicos</h2>
+
 - [ ] Principais materiais didáticos preparados, atualizados e revistos, especialmente quando há mudanças de equipas, conteúdos ou outras.
 
 - [ ] Aplicações informáticas, conjuntos de dados, equipamentos laboratoriais, e outros recursos de suporte preparados.
@@ -228,7 +237,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] São preparadas e discutidas com os estudantes orientações claras sobre o uso, ou não, da Inteligência Artificial, ou recursos similares (artigo 9.º d) \[7\]), promovendo usos que aceleram a aprendizagem, por oposição aos usos que simplesmente aceleram a produção de entregáveis.
 
-## 2.3 Planeamento detalhado {#23-planeamento-detalhado}
+<h2 id="23-planeamento-detalhado">2.3 Planeamento detalhado</h2>
+
 - [ ] Plano de atividades semanal elaborado.
 
   - O plano semanal é coerente com o calendário escolar, levando em conta feriados e interrupções letivas, o calendário de avaliação distribuída e os horários.
@@ -253,13 +263,16 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Sumários inicializados no SIGARRA.
 
-# 3 Funcionamento Semanal {#3-funcionamento-semanal}
-## 3.1 Conteúdos {#31-conteudos}
+<h1 id="3-funcionamento-semanal">3 Funcionamento Semanal</h1>
+
+<h2 id="31-conteudos">3.1 Conteúdos</h2>
+
 - [ ] Os conteúdos dos vários tipos de aulas (materiais de estudo, enunciados de exercícios, elementos de autoavaliação, etc.) são disponibilizados atempadamente aos estudantes e têm a abrangência adequada para fomentar o estudo autónomo e reduzir a dependência de docentes individuais, especialmente em UCs com muitos estudantes.
 
 - [ ] Os conteúdos são revistos por pares previamente à disponibilização aos estudantes, quando a dimensão da equipa docente o permite.
 
-## 3.2 Aulas {#32-aulas}
+<h2 id="32-aulas">3.2 Aulas</h2>
+
 - [ ] As aulas das diversas tipologias são lecionadas de acordo com os horários definidos (com tolerância de 10 minutos iniciais, para permitir transição entre aulas), sendo exceções comunicadas e acordadas apropriadamente.
 
 - [ ] Nas aulas práticas (teórico-práticas ou laboratoriais), é fomentado o trabalho autónomo dos estudantes, com orientação e feedback regular do docente.
@@ -270,32 +283,38 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] As aulas são lecionadas de acordo com a língua de trabalho definida na ficha da UC; sempre que há estudantes estrangeiros presentes e a língua de trabalho é inglês, é usado o inglês quando o docente se dirige ao coletivo de estudantes presentes.
 
-## 3.3 Assiduidade {#33-assiduidade}
+<h2 id="33-assiduidade">3.3 Assiduidade</h2>
+
 - [ ] A assiduidade é registada, pelo menos quando é exigida para obtenção de frequência.
 
 - [ ] As justificações de faltas às aulas são entregues no secretariado do CE e comunicadas aos docentes para controlo das regras de assiduidade. As faltas são relevadas (removidas) quando justificadas ao abrigo de [estatutos e condições especiais](https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=estatutos%20especiais) previstos na lei ou em casos de [evicção escolar](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-592333).[^10]
 
 - [ ] Faltas de docentes são devidamente comunicadas (a estudantes e órgãos hierárquicos) e compensadas (substituição do docente, aula de compensação, etc.).
 
-## 3.4 Atendimento {#34-atendimento}
+<h2 id="34-atendimento">3.4 Atendimento</h2>
+
 - [ ] São implementados e divulgados junto dos estudantes desde o início do semestre letivo procedimentos para atendimento de estudantes fora das aulas, reservando cada docente para este efeito um período correspondente em regra a metade do tempo de lecionação de aulas (artigo 41.º do ECDU \[8\]).
 
 - [ ] Quando aplicável, monitores prestam assistência em horários e/ou canais pré-definidos.
 
-## 3.5 Comunicação, coordenação e monitorização {#35-comunicacao-coordenacao-e-monitorizacao}
+<h2 id="35-comunicacao-coordenacao-e-monitorizacao">3.5 Comunicação, coordenação e monitorização</h2>
+
 - [ ] Respostas a dúvidas frequentes e informações importantes são transmitidas por escrito aos estudantes por via de canais oficiais dirigidos a todos os estudantes.
 
 - [ ] Sempre que a dimensão da equipa docente o justifica, são realizadas regularmente reuniões de coordenação da UC ou implementados mecanismos equivalentes de coordenação.
 
 - [ ] É recolhido regularmente e tratado feedback dos estudantes sobre o funcionamento da UC.
 
-## 3.6 Estudantes com necessidades ou dificuldades específicas {#36-estudantes-com-necessidades-ou-dificuldades-especificas}
+<h2 id="36-estudantes-com-necessidades-ou-dificuldades-especificas">3.6 Estudantes com necessidades ou dificuldades específicas</h2>
+
 - [ ] Os docentes são informados, pelo DCE e/ou pelo secretariado do CE, no início do semestre ou logo que o estatuto é atribuído, sobre os estudantes com estatuto ENEE (estudante com necessidades educativas específicas), devendo assegurar o cumprimento dos respetivos direitos definidos pelo GOI em articulação com o DCE.
 
 - [ ] Os docentes sinalizam estudantes com aparentes necessidades educativas específicas, dificuldades de integração ou outras situações problemáticas para estruturas de apoio como o GOI ou o programa de mentoria interpares, podendo consultar o GOI[^11] para definir mecanismos de ajuda.
 
-# 4 Elementos de Avaliação {#4-elementos-de-avaliacao}
-## 4.1 Enunciados {#41-enunciados}
+<h1 id="4-elementos-de-avaliacao">4 Elementos de Avaliação</h1>
+
+<h2 id="41-enunciados">4.1 Enunciados</h2>
+
 - [ ] Os enunciados dos elementos de avaliação (provas escritas, trabalhos, etc.) são preparados adequadamente, revistos e resolvidos (no caso de provas escritas) previamente à disponibilização aos estudantes. [^12]
 
   - Nos enunciados de provas escritas, são indicados claramente a duração da prova e a cotação das questões, incluindo as cotações a atribuir às respostas incorretas nas questões de escolha múltipla, não excedendo a duração de 180 minutos nas provas com peso de 100% e 150 minutos nas provas com peso ≤ 75% (artigo 5º \[1\]).
@@ -318,7 +337,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
     - Português - *Suitable for English-speaking students* → quando a UC tem estudantes estrangeiros, deve existir uma versão do enunciado em português e outra em inglês; excecionalmente, pode-se prescindir da versão em português desde que haja o acordo dos estudantes e do DCE.
 
-## 4.2 Logística {#42-logistica}
+<h2 id="42-logistica">4.2 Logística</h2>
+
 - [ ] A logística de provas escritas é devidamente preparada.
 
   - Prova agendada e escalonada com data, horas de início e fim, salas e vigilantes.
@@ -335,7 +355,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Estudantes com necessidades educativas específicas são conhecidos e os seus direitos nas provas de avaliação (estabelecidos pelo GOI) acautelados, como, por exemplo, tempo adicional (tipicamente 25%).
 
-## 4.3 Integridade {#43-integridade}
+<h2 id="43-integridade">4.3 Integridade</h2>
+
 - [ ] De forma geral, são implementadas medidas de prevenção e deteção de fraude em todos os elementos de avaliação, com vista a assegurar a integridade do processo de avaliação (ver ação 1.4 \[3\]).
 
 - [ ] Nos trabalhos, são implementados mecanismos para aferir/validar a originalidade e a contribuição individual, tais como: acompanhamento regular do progresso, discussão oral individual com nota mínima e provas escritas individuais sobre os temas dos trabalhos (também com nota mínima).
@@ -356,7 +377,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] No caso de ser detetada fraude na realização de uma prova, em qualquer das suas modalidades (exame, teste, trabalho, etc.), a prova é anulada[^18] e a fraude é comunicada à Direção da FEUP, em acordo com o DCE, para eventual instauração de processo disciplinar (artigo 20º \[6\] e regulamento disciplinar da UP \[5\]) e o registo da fraude no processo individual do estudante[^19].
 
-## 4.4 Resultados {#44-resultados}
+<h2 id="44-resultados">4.4 Resultados</h2>
+
 - [ ] São cumpridos os prazos e procedimentos regulamentares de lançamento de classificações \[1\]\[6\].
 
   - As classificações de elementos de avaliação distribuída são divulgadas no prazo máximo de 28 dias de calendário a contar da data do elemento de avaliação, respeitando ainda a antecedência mínima de 7 dias de calendário em relação à data do exame de época normal, caso a UC tenha exame final (10.1 e 10.3 \[1\]).
@@ -389,11 +411,14 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Reprovado por Anulação (RA): quando é detetada fraude em exame final sem avaliação distribuída.[^22]
 
-## 4.5 Faltas {#45-faltas}
+<h2 id="45-faltas">4.5 Faltas</h2>
+
 - [ ] Para os estudantes que faltam, de forma justificada, a uma prova de avaliação distribuída (teste escrito, apresentação de trabalho, etc.), por motivo de [estatuto ou condição especial](https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=estatutos%20especiais) prevista na lei, [evicção escolar](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-592333) ou doença comprovada por atestado médico[^23], é assegurada a realização da prova em data alternativa. No caso de testes, a alternativa deve ser, regra geral, a realização em época de recurso no final do semestre.[^24]
 
-# 5 Fecho de Unidade Curricular {#5-fecho-de-unidade-curricular}
-## 5.1 Verificações finais {#51-verificacoes-finais}
+<h1 id="5-fecho-de-unidade-curricular">5 Fecho de Unidade Curricular</h1>
+
+<h2 id="51-verificacoes-finais">5.1 Verificações finais</h2>
+
 - [ ] Todas as classificações lançadas no SIGARRA e os termos emitidos.[^25]
 
   - Não há estudantes ainda sem classificação final em qualquer época.
@@ -404,7 +429,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Todas as evidências de avaliação arquivadas por um prazo de 5 anos.
 
-## 5.2 Relatório da unidade curricular {#52-relatorio-da-unidade-curricular}
+<h2 id="52-relatorio-da-unidade-curricular">5.2 Relatório da unidade curricular</h2>
+
 - [ ] Relatório da UC preenchido pelo regente, de acordo com o prazo máximo e âmbito regulamentares (um mês contado a partir do fecho dos IPs, artigo 3º \[1\]).[^26]
 
   - Existe uma análise e reflexão sobre o cumprimento do programa e objetivos propostos na ficha da UC, com evidências de cobertura dos tópicos programáticos (através dos sumários e atividades documentadas) e de desenvolvimento pelos estudantes das competências descritas nos objetivos/resultados de aprendizagem.
@@ -421,7 +447,8 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
   - São anexados os enunciados dos elementos de avaliação.
 
-# Anexo A – Exemplo de Ficha de Unidade Curricular {#anexo-a-exemplo-de-ficha-de-unidade-curricular}
+<h1 id="anexo-a-exemplo-de-ficha-de-unidade-curricular">Anexo A – Exemplo de Ficha de Unidade Curricular</h1>
+
 O seguinte extrato de ficha de UC ilustra o mapeamento entre os vários campos da ficha.
 
 **Unidade curricular**: Princípios e Paradigmas de Engenharia de Software
@@ -523,7 +550,8 @@ Os trabalhos (A2, A3) são obrigatórios mesmo para os estudantes dispensados de
 
 A classificação do exame final pode ser melhorada em exame de recurso. As classificações de avaliação distribuída podem ser melhoradas por frequência da edição seguinte da unidade curricular.
 
-# Anexo B – Exemplo de Rubrica de Avaliação {#anexo-b-exemplo-de-rubrica-de-avaliacao}
+<h1 id="anexo-b-exemplo-de-rubrica-de-avaliacao">Anexo B – Exemplo de Rubrica de Avaliação</h1>
+
 O exemplo seguinte refere-se à avaliação de um projeto de desenvolvimento de software em equipa, com entrega de software e relatório final e realização de sessão de demonstração e discussão oral (com um peso limitado nos entregáveis, numa era em que estes podem ser produzidos em grande parte com a ajuda de ferramentas de inteligência artificial generativa).
 
 | Critério \ Classif. | Excelente (4) | Bom (3) | Satisfatório (2) | Insuficiente (1) | Peso (%) |
@@ -541,7 +569,8 @@ Os patamares de classificação podem também ser lidos como níveis de satisfa�
 
 A classificação final pode ser convertida para uma escala de 0 a 20.
 
-# Anexo C – Medidas de Implementação {#anexo-c-medidas-de-implementacao}
+<h1 id="anexo-c-medidas-de-implementacao">Anexo C – Medidas de Implementação</h1>
+
 Foi já criado um conjunto de ferramentas (*toolkit*) de apoio à implementação das recomendações boas práticas descritas neste documento, com recurso a modelos de inteligência artificial generativa:
 
 - Assistente de Apoio à Revisão de Fichas de Unidades Curriculares, disponível em [https://ucreview.fe.up.pt/](https://ucreview.fe.up.pt/) (alojado em máquina virtual da UP Digital, com acesso restrito dentro da rede da FEUP), dirigido a regentes de UCs e DCEs.
