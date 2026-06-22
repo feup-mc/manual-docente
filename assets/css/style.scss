@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+.task-list-item {
+  list-style-type: none;
+}
+.task-list-item-checkbox {
+  margin: 0 .4em 0 -1.4em;
+  vertical-align: middle;
+}
