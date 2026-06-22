@@ -573,10 +573,11 @@ A classificação final pode ser convertida para uma escala de 0 a 20.
 
 Foi já criado um conjunto de ferramentas (*toolkit*) de apoio à implementação das recomendações e boas práticas descritas neste documento, com recurso a modelos de inteligência artificial generativa:
 
-- Assistente de Apoio à Revisão de Fichas de Unidades Curriculares, dirigido a regentes de UCs e DCEs (autenticação federada), disponível em [https://ucreview.fe.up.pt/](https://ucreview.fe.up.pt/, alojado em máquina virtual da UPdigital, com acesso restrito dentro da rede da FEUP.
+- Assistente de Apoio à Revisão de Fichas de Unidades Curriculares, dirigido a regentes de UCs e DCEs (autenticação federada), disponível em [https://ucreview.fe.up.pt/](https://ucreview.fe.up.pt/), alojado em máquina virtual da UPdigital, com acesso restrito dentro da rede da FEUP.
 
-- Assistente de Apoio à Elaboração de Relatórios de Unidades Curriculares, dirigido a regentes de UCs (autenticação federada), disponível em [https://app.uc-reports.com/](https://app.uc-reports.com/, alojado em máquina virtual da UP Digital, e com política de privacidade e proteção de dados aprovada pela Unidade de Proteção de Dados da Universidade do Porto.
+- Assistente de Apoio à Elaboração de Relatórios de Unidades Curriculares, dirigido a regentes de UCs (autenticação federada), disponível em [https://app.uc-reports.com/](https://app.uc-reports.com/), alojado em máquina virtual da UP Digital, e com política de privacidade e proteção de dados aprovada pela Unidade de Proteção de Dados da Universidade do Porto.
 
+<h1>Notas</h1> 
 
 [^1]: Exemplo de escala: TI - totalmente implementado, LI - largamente implementado, PI - parcialmente implementado, NI - não implementado, NA - (ainda) não aplicável.
 
