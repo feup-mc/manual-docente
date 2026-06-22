@@ -2,9 +2,9 @@
   <img src="assets/media/image2.png" alt="U.PORTO · Faculdade de Engenharia da Universidade do Porto" width="320" />
 </p>
 
-# Proposta de Manual de Boas Práticas do Docente da FEUP
+# Manual de Boas Práticas do Docente da FEUP
 
-**Versão 0.10** · FEUP, 14 de abril de 2026
+**Versão 1.0** · Aprovado em Conselho Pedagógico da FEUP a 19 de junho de 2026
 
 ## Resumo
 
@@ -54,7 +54,7 @@ Para cumprir a sua missão de educação em consonância com a sua reputação a
 
 - volatilidade do corpo docente – recorre a número significativo de docentes convidados por períodos relativamente curtos;
 
-- internacionalização – acolhe um número crescentes de estudantes internacionais e de mobilidade;
+- internacionalização – acolhe um número crescente de estudantes internacionais e de mobilidade;
 
 - dispersão de informação – a informação relevante para o corpo docente encontra-se dispersa por diversos regulamentos, diretivas e outros documentos, da FEUP, da U.Porto ou de âmbito nacional;
 
@@ -119,7 +119,7 @@ Foco em ciclos [PDCA](https://en.wikipedia.org/wiki/PDCA) (PLAN-DO-CHECK-ACT/ADJ
 
 - edições anuais de CEs (foco dos planos e relatórios anuais de CE);
 
-- versões de ciclos de estudos (foco das propostas de criação/alteração de CEs e relatórios de auto-avaliação para efeitos de acreditação pela A3ES).
+- versões de ciclos de estudos (foco das propostas de criação/alteração de CEs e relatórios de autoavaliação para efeitos de acreditação pela A3ES).
 
 A figura seguinte ilustra a aplicação do ciclo PDCA de melhora contínua ao nível das ocorrências de UCs, realçando a importância das fichas e relatórios das UCs, que nesta proposta merecem especial atenção.
 
@@ -157,7 +157,7 @@ A orientação a resultados pode ser descrita segundo quatro dimensões compleme
 
   - uso de métodos de avaliação que comprovem a verificação efetiva das competências descritas nos objetivos de aprendizagem;
 
-  - promoção do rigor e integridade do processo de avaliação.
+  - promoção do rigor e da integridade do processo de avaliação.
 
 - Promover o sucesso escolar, nomeadamente através de:
 
@@ -197,13 +197,13 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Os métodos e componentes de avaliação refletem um equilíbrio entre avaliações supervisionadas, que validam os resultados de aprendizagem (como testes, exames e discussões orais individuais), e avaliações abertas, que promovem a aprendizagem (como projetos e trabalhos, individuais ou em grupo, orientados para o desenvolvimento de competências nos níveis cognitivos mais elevados), evitando a dependência excessiva de testes ou exames de escolha múltipla, que tendem a avaliar apenas os níveis cognitivos mais elementares, bem como a utilização de trabalhos em grupo com dimensão excessiva, que dificultam a contribuição individual e a sua aferição.
 
-- [ ] Existe pelo menos uma componente de avaliação supervisionada individual.
+- [ ] Existe pelo menos uma componente de avaliação supervisionada.
 
 - [ ] O número de elementos de avaliação distribuída é limitado (tipicamente 2 a 4 elementos), de forma a evitar a sobrecarga de estudantes e docentes, sem comprometer os objetivos da UC.
 
 - [ ] No caso de avaliação distribuída com exame final, o exame final tem um peso não superior a 75% na classificação final (artigo 4º \[1\]).
 
-- [ ] São definidas as condições para obtenção de frequência (artigo 6º \[1\]), entendidas como as condições necessárias para o acesso à avaliação \[9\], nomeadamente ao exame final de qualquer época (artigo 8º \[1\]). Podem incluir condições de assiduidade (presença em pelo menos 75% das aulas de certas tipologias) e de participação em elementos de avaliação distribuída, mas não devem, em regra, exigir classificações mínimas, pois dizem respeito ao acesso à avaliação e não aos seus resultados.
+- [ ] São definidas as condições para obtenção de frequência (artigo 6.º \[1\]), entendidas como as condições necessárias para o acesso à avaliação \[9\], nomeadamente ao exame final de qualquer época (artigo 8.º \[1\]). Podem incluir condições de assiduidade (presença em pelo menos 75% das aulas de certas tipologias) e de participação em elementos de avaliação distribuída, mas não devem, em regra, exigir classificações mínimas, pois dizem respeito ao acesso à avaliação e não aos seus resultados.
 
 - [ ] São identificadas as componentes de avaliação distribuída que: exigem nota mínima para aprovação à UC (9.2.b \[1\]); admitem avaliação de recurso em caso de falta ou reprovação (7.2 \[1\]); permitem melhoria de classificação (após aprovação à UC) por exame final ou frequência da UC no ano letivo seguinte (11.1.b, 11.4.b, 12.2 \[1\]).[^5]
 
@@ -221,7 +221,7 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Principais materiais didáticos preparados, atualizados e revistos, especialmente quando há mudanças de equipas, conteúdos ou outras.
 
-- [ ] Aplicações informáticas, conjuntos de dados, equipamentos laboratoriais, e outros recursos de suporte preparados.
+- [ ] Aplicações informáticas, conjuntos de dados, equipamentos laboratoriais e outros recursos de suporte preparados.
 
 - [ ] Sempre que possível, são utilizados recursos abertos e reutilizáveis ou com suporte institucional para reduzir custos para os estudantes e para a instituição.
 
@@ -293,7 +293,7 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 <h2 id="34-atendimento">3.4 Atendimento</h2>
 
-- [ ] São implementados e divulgados junto dos estudantes desde o início do semestre letivo procedimentos para atendimento de estudantes fora das aulas, reservando cada docente para este efeito um período correspondente em regra a metade do tempo de lecionação de aulas (artigo 41.º do ECDU \[8\]).
+- [ ] São implementados e divulgados junto dos estudantes desde o início do semestre letivo procedimentos para atendimento de estudantes fora das aulas, reservando cada docente para este efeito um período correspondente, em regra, a metade do tempo de lecionação de aulas (artigo 41.º do ECDU \[8\]).
 
 - [ ] Quando aplicável, monitores prestam assistência em horários e/ou canais pré-definidos.
 
@@ -303,7 +303,7 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Sempre que a dimensão da equipa docente o justifica, são realizadas regularmente reuniões de coordenação da UC ou implementados mecanismos equivalentes de coordenação.
 
-- [ ] É recolhido regularmente e tratado feedback dos estudantes sobre o funcionamento da UC.
+- [ ] É recolhido regularmente e tratado o feedback dos estudantes sobre o funcionamento da UC.
 
 <h2 id="36-estudantes-com-necessidades-ou-dificuldades-especificas">3.6 Estudantes com necessidades ou dificuldades específicas</h2>
 
@@ -443,7 +443,7 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
   - Existe uma reflexão sobre os resultados dos inquéritos pedagógicos (taxas de resposta, médias, comentários recorrentes), especialmente nos casos de médias muito baixas (\<4), com interpretação mais cautelosa com reduzido número ou elevada dispersão das respostas.
 
-  - Sempre que necessárias, são indicadas sugestões priorizadas para a melhoria de funcionamento da UC, endereçando problemas e causas identificados.
+  - Sempre que necessário, são indicadas sugestões priorizadas para a melhoria do funcionamento da UC, endereçando problemas e causas identificados.
 
   - São anexados os enunciados dos elementos de avaliação.
 
@@ -571,49 +571,12 @@ A classificação final pode ser convertida para uma escala de 0 a 20.
 
 <h1 id="anexo-c-medidas-de-implementacao">Anexo C – Medidas de Implementação</h1>
 
-Foi já criado um conjunto de ferramentas (*toolkit*) de apoio à implementação das recomendações boas práticas descritas neste documento, com recurso a modelos de inteligência artificial generativa:
+Foi já criado um conjunto de ferramentas (*toolkit*) de apoio à implementação das recomendações e boas práticas descritas neste documento, com recurso a modelos de inteligência artificial generativa:
 
-- Assistente de Apoio à Revisão de Fichas de Unidades Curriculares, disponível em [https://ucreview.fe.up.pt/](https://ucreview.fe.up.pt/) (alojado em máquina virtual da UP Digital, com acesso restrito dentro da rede da FEUP), dirigido a regentes de UCs e DCEs.
+- Assistente de Apoio à Revisão de Fichas de Unidades Curriculares, dirigido a regentes de UCs e DCEs (autenticação federada), disponível em [https://ucreview.fe.up.pt/](https://ucreview.fe.up.pt/, alojado em máquina virtual da UPdigital, com acesso restrito dentro da rede da FEUP.
 
-- Assistente de Apoio à Elaboração de Relatórios de Unidades Curriculares, disponível em [https://app.uc-reports.com/](https://app.uc-reports.com/) (alojado em máquina virtual da UP Digital), dirigido a regentes de UCs.
+- Assistente de Apoio à Elaboração de Relatórios de Unidades Curriculares, dirigido a regentes de UCs (autenticação federada), disponível em [https://app.uc-reports.com/](https://app.uc-reports.com/, alojado em máquina virtual da UP Digital, e com política de privacidade e proteção de dados aprovada pela Unidade de Proteção de Dados da Universidade do Porto.
 
-Como próximos passos, seguem-se alguns exemplos de medidas que podem ajudar à implementação de boas práticas descritas neste documento:
-
-- Painel de bordo (*dashboard*) para docentes, regentes e DCEs, contendo (além do acesso às ferramentas acima referidas):
-
-  - Estado e alertas de preenchimento de sumários (incluindo mecanismo de preenchimento automático no SIGARRA com base no Moodle)
-
-  - Estado e alertas de lançamento de classificações (finais e distribuídas)
-
-  - Obriga a sistematizar processos de definição de elementos e datas de avaliação distribuída e de publicação de classificações
-
-  - Estatísticas de resultados de avaliação (incluindo anomalias / *outliers*)
-
-  - Estatísticas de resultados inquéritos pedagógicos (incluindo anomalias / *outliers*)
-
-  - Problemas e sugestões comunicados pela CA
-
-- Melhorias no SIGARRA :
-
-  - Registo normalizado de condições e finalidade de acesso a exames das várias épocas.
-
-  - Registo normalizado de componentes de avaliação (substituindo fórmulas de avaliação em texto)
-
-  - Registo normalizado de prazos e resultados de avaliação distribuída.
-
-  - Conceder ao regente atual acesso ao relatório da edição anterior da UC.
-
-  - Campo adicional na ficha da UC para explicar o mapeamento entre componentes e o tratamento dado a propostas de melhoria do relatório da edição anterior.
-
-- Institucionalização de mecanismos de revisão por pares de fichas de UCs e enunciados de elementos de avaliação
-
-- Criação de regulamentos/normas da FEUP contemplando algumas boas práticas
-
-  - Exemplo: proibição de *smart phones* em provas de avaliação, ao mesmo tempo que as salas de exames são equipadas com relógios.
-
-- Institucionalização de mecanismos de controlo por DCE, CA e secretariado
-
-- Equacionar o cumprimento de “obrigações administrativas” na atribuição de prémios pedagógicos e na avaliação de desempenho de docentes.
 
 [^1]: Exemplo de escala: TI - totalmente implementado, LI - largamente implementado, PI - parcialmente implementado, NI - não implementado, NA - (ainda) não aplicável.
 
@@ -621,7 +584,7 @@ Como próximos passos, seguem-se alguns exemplos de medidas que podem ajudar à 
 
 [^3]: 1\. Recordar (listar, identificar, definir, descrever, etc.); 2. Compreender (explicar, interpretar, resumir, etc.); 3. Aplicar (utilizar, implementar, resolver, executar, etc.); 4. Analisar (comparar, diferenciar, etc.); 5. Avaliar (criticar, justificar, verificar, etc.); 6. Criar (projetar, desenvolver, elaborar, etc.).
 
-[^4]: Para facilitar o mapeamento, podem-se utilizador identificadores como ilustrado no Anexo A.
+[^4]: Para facilitar o mapeamento, podem-se utilizar identificadores como ilustrado no Anexo A.
 
 [^5]: Regra geral, os testes escritos devem admitir recurso e melhoria por exame final em época de recurso, enquanto que projetos e trabalhos laboratoriais ou de campo tipicamente não admitem recurso, permitindo apenas melhoria por frequência no ano letivo seguinte. Consoante as condições logísticas, o exame de recurso pode consistir numa única prova global ou ser dividido em partes, permitindo a cada estudante realizar apenas algumas das partes.
 
@@ -637,7 +600,7 @@ Como próximos passos, seguem-se alguns exemplos de medidas que podem ajudar à 
 
 [^11]: Ver contactos e informações úteis em [https://fe.up.pt/goi/](https://fe.up.pt/goi/contactos/) .
 
-[^12]: Os DCE podem implementar medidas de controlo, obrigando por exemplo a comunicar estes artefactos ao DCE antes da disponibilização aos estudantes, e fixando datas alternativas por que os estudantes podem optar em caso de incumprimento, ouvida a CA.
+[^12]: Os DCE podem implementar medidas de controlo, obrigando, por exemplo, a comunicar estes artefactos ao DCE antes da disponibilização aos estudantes, e fixando datas alternativas por que os estudantes podem optar em caso de incumprimento, ouvida a CA.
 
 [^13]: Além de se indicarem os critérios de avaliação e pesos, podem também ser indicadas as condições para atribuir uma classificação ou intervalo de classificações, na forma de uma rubrica ou grelha de avaliação como a exemplificada no Anexo B, para promover a transparência e equidade na avaliação.
 
@@ -647,7 +610,7 @@ Como próximos passos, seguem-se alguns exemplos de medidas que podem ajudar à 
 
 [^16]: Para implementar esta medida em provas escritas em papel, é necessário equipar as salas com relógios de parede.
 
-[^17]: Idealmente, deviam ser evitadas de todo as provas em múltiplos turnos (que são atualmente necessárias no caso de provas em computador), através da dotação de instalações apropriadas.
+[^17]: Idealmente, deviam ser evitadas as provas em múltiplos turnos (que são atualmente necessárias no caso de provas em computador), através da dotação de instalações apropriadas.
 
 [^18]: Conforme referido adiante, quando é detetada fraude em exame final sem avaliação distribuída, deve ser atribuída a classificação final “RA” (reprovado por anulação). Nos outros casos, sem prejuízo de outras medidas que possam ser aplicadas, à prova deve ser atribuída a classificação de zero valores.
 
@@ -667,4 +630,4 @@ Como próximos passos, seguem-se alguns exemplos de medidas que podem ajudar à 
 
 [^26]: Idealmente, o relatório da UC devia ser validado pelo DCE (ou CC) tal como a ficha.
 
-[^27]: Os limites indicados são-no apenas a título de exemplo, devendo ser calibrados para cada CE com base em dados históricos e percentis de referência ou metas pretendidas.
+[^27]: Os limites indicados são apenas a título de exemplo, devendo ser calibrados para cada CE com base em dados históricos e percentis de referência ou metas pretendidas.
