@@ -66,8 +66,9 @@ O objetivo deste documento é precisamente o de compilar, na forma de listas de 
 
 Ao longo do documento são utilizados os acrónimos indicados na tabela seguinte.
 
-| CA   | Comissão de Acompanhamento (do CE)                |
+| Sigla| Descrição                                         |
 |------|---------------------------------------------------|
+| CA   | Comissão de Acompanhamento (do CE)                |
 | CC   | Comissão Científica (do CE)                       |
 | CE   | Ciclo de Estudos                                  |
 | CNA  | Concurso Nacional de Acesso                       |
