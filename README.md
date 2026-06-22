@@ -1,6 +1,6 @@
 # Manual de Boas Práticas do Docente da FEUP
 
-Proposta de **Manual de Boas Práticas do Docente da FEUP** — listas de verificação
+**Manual de Boas Práticas do Docente da FEUP** — listas de verificação
 (*checklists*) para apoiar regentes e docentes na gestão e lecionação de unidades
 curriculares.
 
@@ -20,23 +20,8 @@ A versão publicada está disponível em:
 ## Como está publicado
 
 O site é gerado automaticamente pelo **GitHub Pages** a partir da raiz da
-*branch* `main`. Para (re)ativar, caso necessário:
+*branch* `main`. 
 
-1. **Settings → Pages**
-2. Em **Source**, escolher `Deploy from a branch`
-3. *Branch*: `main` · pasta: `/ (root)`
-4. Guardar. O site fica disponível em poucos minutos.
-
-## Como editar
-
-O conteúdo está em [`index.md`](index.md), em Markdown. Pode ser editado
-diretamente no GitHub (botão ✏️) ou localmente. Cada item de *checklist* usa a
-sintaxe `- [ ]`, que o GitHub apresenta como caixa de verificação.
+## Como propor alterações
 
 Sugestões e correções podem ser propostas via *Issues* ou *Pull Requests*.
-
-## Controlo de versões
-
-A versão do documento está indicada no topo de `index.md` (atualmente **v0.10**).
-Recomenda-se criar uma *tag*/*release* por versão aprovada (ex.: `v0.10`), para
-manter um histórico claro de versões submetidas ao Conselho Pedagógico.
