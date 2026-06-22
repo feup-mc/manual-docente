@@ -2,10 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-.task-list-item {
-  list-style-type: none;
-}
-.task-list-item-checkbox {
-  margin: 0 .4em 0 -1.4em;
-  vertical-align: middle;
-}
+
+.task-list-item { list-style-type: none !important; }
+.task-list-item::marker { content: none; }
+.task-list-item::before { content: none !important; }
+.task-list-item-checkbox { margin: 0 .4em 0 -1.4em; vertical-align: middle; }
