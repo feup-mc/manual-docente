@@ -7,3 +7,14 @@
 .task-list-item::marker { content: none; }
 .task-list-item::before { content: none !important; }
 .task-list-item-checkbox { margin: 0 .4em 0 -1.4em; vertical-align: middle; }
+
+table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;   // distribui as colunas pela largura disponível
+  font-size: 12px;
+  word-wrap: break-word;
+}
+th, td {
+  padding: 4px 6px;
+}
