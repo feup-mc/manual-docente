@@ -4,7 +4,7 @@
 (*checklists*) para apoiar regentes e docentes na gestão e lecionação de unidades
 curriculares.
 
-A versão publicada está disponível em:
+A versão publicada (gerada automaticamente pelo **GitHub Pages*) está disponível em:
 **https://feup-mc.github.io/manual-docente/**
 
 ## Estrutura do repositório
@@ -16,11 +16,6 @@ A versão publicada está disponível em:
 ├── README.md
 └── assets/media/          # imagens (figura PDCA, logótipo)
 ```
-
-## Como está publicado
-
-O site é gerado automaticamente pelo **GitHub Pages** a partir da raiz da
-*branch* `main`. 
 
 ## Como propor alterações
 
