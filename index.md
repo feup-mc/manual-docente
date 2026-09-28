@@ -400,15 +400,15 @@ O documento está organizado por subprocessos, com listas de verificação (*che
 
 - [ ] Nas classificações finais, são utilizadas adequadamente as tipologias de resultados definidas na UP para casos especiais de reprovação sem classificação numérica:[^21]
 
-- Reprovado por Desistência (RD): quando o estudante se apresentou a avaliação mas desistiu;
+  - Reprovado por Desistência (RD): quando o estudante se apresentou a avaliação mas desistiu;
 
-- Reprovado por Falta de Frequência (RFF): quando o estudante não cumpriu as condições de obtenção de frequência definidas na ficha da UC;
+  - Reprovado por Falta de Frequência (RFF): quando o estudante não cumpriu as condições de obtenção de frequência definidas na ficha da UC;
 
-- Reprovado por Falta de Componente (RFC): quando o estudante não atingiu a classificação mínima definida na ficha da UC em pelo menos uma das componentes de avaliação;
+  - Reprovado por Falta de Componente (RFC): quando o estudante não atingiu a classificação mínima definida na ficha da UC em pelo menos uma das componentes de avaliação;
 
-- Reprovado por Falta a Exame (RFE): quando o exame é componente obrigatória da avaliação e o estudante faltou;
+  - Reprovado por Falta a Exame (RFE): quando o exame é componente obrigatória da avaliação e o estudante faltou;
 
-- Reprovado por Anulação (RA): quando é detetada fraude em exame final sem avaliação distribuída.[^22]
+  - Reprovado por Anulação (RA): quando é detetada fraude em exame final sem avaliação distribuída.[^22]
 
 <h2 id="45-faltas">4.5 Faltas</h2>
 
